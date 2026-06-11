@@ -1,5 +1,4 @@
-# Quiz Application
-Quiz App – Full-Stack Online Quiz Platform
+#Quiz App – Full-Stack Online Quiz Platform
 
 A full-stack Quiz Application that allows users to create, attempt, and analyze quizzes with secure authentication, private access codes, leaderboards, and performance analytics.
 
