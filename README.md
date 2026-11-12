@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Quiz App – Full-Stack Online Quiz Platform
 
 A full-stack Quiz Application that allows users to create, attempt, and analyze quizzes with secure authentication, private access codes, leaderboards, and performance analytics.
@@ -168,3 +169,6 @@ A full-stack Quiz Application that allows users to create, attempt, and analyze 
 
 
 
+=======
+# quiz
+>>>>>>> dc1a58e1b8907ededdfd31227399d03fe06527df
